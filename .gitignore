@@ -1,0 +1,5 @@
+# 忽略 build 文件夹
+build/
+
+# 忽略 CMakeLists.txt 文件
+CMakeLists.txt
