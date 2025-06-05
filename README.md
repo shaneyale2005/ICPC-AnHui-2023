@@ -1,4 +1,4 @@
-### ICPC_AnHui_2023
+### ICPC-AnHui-2023
 
 ---
 
